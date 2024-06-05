@@ -27,8 +27,10 @@ El conjunto de datos contiene las siguientes columnas:
 ## Instalación
 Para ejecutar el cuaderno de Jupyter, necesitarás instalar las siguientes bibliotecas:
 
-```bash
+``` bash
 pip install pandas numpy matplotlib seaborn
+
+```
 
 ## Uso
 El cuaderno de Jupyter incluye varias secciones clave:
