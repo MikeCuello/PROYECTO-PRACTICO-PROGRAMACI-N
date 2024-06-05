@@ -1,9 +1,11 @@
-Análisis de Datos de Ventas de Videojuegos
-Descripción del Proyecto
+## Análisis de Datos de Ventas de Videojuegos
+# Descripción del Proyecto
 Este proyecto se centra en el análisis de un conjunto de datos de ventas de videojuegos. Utilizando un cuaderno de Jupyter, se han realizado diversas tareas de análisis y visualización para extraer información valiosa sobre las tendencias y patrones en las ventas de videojuegos a nivel global.
-Contenido del Proyecto
+# Contenido del Proyecto
 El proyecto incluye los siguientes archivos:
+
 •	Video_Games_Sales_as_at_22_Dec_2016.csv: El conjunto de datos que contiene información sobre las ventas de videojuegos hasta diciembre de 2016.
+
 •	Proyecto_de_analitica_de_datos.ipynb: Un cuaderno de Jupyter que documenta el proceso de análisis de datos, incluyendo la carga, limpieza, y visualización de los datos.
 Estructura del Conjunto de Datos
 El conjunto de datos contiene las siguientes columnas:
