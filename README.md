@@ -1,5 +1,5 @@
 # Análisis de Datos de Ventas de Videojuegos
-HECHO POR: MATEO ALDANA, ESTEBAN LOPEZ, MICHAEL CUELLO (GRUPO 3 1:00- 4:00)
+HECHO POR: MATEO ALDANA, ESTEBAN LOPEZ, MICHAEL CUELLO (GRUPO 3 1:00- 3:00)
 ## Descripción del Proyecto
 Este proyecto se centra en el análisis de un conjunto de datos de ventas de videojuegos. Utilizando un cuaderno de Jupyter, se han realizado diversas tareas de análisis y visualización para extraer información valiosa sobre las tendencias y patrones en las ventas de videojuegos a nivel global.
 
