@@ -44,18 +44,18 @@ El cuaderno de Jupyter incluye varias secciones clave:
 
 
 2.	Limpieza de Datos: Identificación y manejo de valores nulos.
-```
+```python
 columnas_conservadas = ['Name', 'Year_of_Release', 'Platform', 'Genre', 'NA_Sales', 'EU_Sales', 'JP_Sales', 'Other_Sales', 'Global_Sales']
 df_filtrado = df[columnas_conservadas]
 df_filtrado.isnull().sum()
 ```
 3.	Análisis Exploratorio de Datos (EDA): Análisis descriptivo y visualizaciones para entender las tendencias y patrones en los datos.
-```		
+ ```python
 import matplotlib.pyplot as plt
 import seaborn as sns
 sns.barplot(x='Genre', y='Global_Sales', data=df_filtrado)
 plt.show()
-```
+ ```
 
 ## Resultados
 Algunos de los resultados clave del análisis incluyen:
