@@ -74,5 +74,3 @@ Las contribuciones son bienvenidas. Por favor, abre un 'issue' para discutir cua
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
 
-## Contacto
-Para cualquier consulta, puedes contactar a [tu nombre o tu email].
