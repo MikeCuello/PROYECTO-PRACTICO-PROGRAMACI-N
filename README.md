@@ -84,20 +84,6 @@ Las contribuciones son bienvenidas. Por favor, abre un 'issue' para discutir cua
 ## Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-Este README proporciona una visión general y una guía para utilizar el proyecto de análisis de datos de ventas de videojuegos. Siga los pasos y utilice los códigos proporcionados en el cuaderno de Jupyter para realizar su propio análisis y visualizaciones.
-
-from nbformat import read
-
-# Cargar el archivo del cuaderno de Jupyter
-notebook_path = '/mnt/data/Proyecto_de_analitica_de_datos.ipynb'
-with open(notebook_path, 'r', encoding='utf-8') as f:
-    notebook_content = read(f, as_version=4)
-
-# Extraer las celdas del cuaderno
-cells_content = [cell['source'] for cell in notebook_content.cells if cell['cell_type'] == 'code']
-
-# Mostrar una vista previa de las primeras celdas
-cells_content[:5]
 
 ## Contacto
 Para cualquier consulta, puedes contactar a [tu nombre o tu email].
